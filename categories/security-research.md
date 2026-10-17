@@ -29,3 +29,8 @@
 | ESET WeLiveSecurity | welivesecurity.com | Research | Vendor | Research, Analysis | Daily | Free | Web, RSS | Security research and investigation |
 | FireEye Blogs | fireeye.com/blog | Research | Vendor | Threat Research | Weekly | Free | Web, RSS | Advanced threat research and analysis |
 | SentinelOne Labs | sentinelone.com/labs | Research | Vendor | Research, Analysis | Weekly | Free | Web, RSS | Threat research and malware analysis |
+
+## Threat Intelligence Indexes
+| Name | Website URL | Category | Sub-Category | Content Type | Update Frequency | Access Type | Format | Description |
+|------|------------|----------|--------------|--------------|------------------|-------------|---------|-------------|
+| ICHI — Internet Cyber Health Index | ichi.global | Research | Threat Intelligence | Index, Dashboard | Daily | Free | Web | Daily composite cyber-health barometer aggregating 20+ public sources (CISA KEV, Shodan, CVE/NVD, US-CERT, abuse.ch feeds) into a scored index with cited, source-transparent inputs |

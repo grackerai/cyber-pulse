@@ -13,6 +13,7 @@
 | SC Magazine | scmagazine.com | News | Industry News | Articles, Reviews | Daily | Free | Web, RSS | Security product reviews and industry news |
 | CSO Online | csoonline.com | News | Leadership | Articles, Analysis | Daily | Free | Web, RSS | Security leadership and strategy insights |
 | Help Net Security | helpnetsecurity.com | News | Technical News | Articles, Reviews | Daily | Free | Web, RSS | Technical security news and product reviews |
+| Joho no Todai — Security (English) | https://joho-todai.com/en/ | News | Technical News | Articles, Analysis | Daily | Free | Web, RSS | English coverage of cybersecurity, vulnerabilities, incidents, and security updates |
 
 ## Security Research Publications
 | Name | Website URL | Category | Sub-Category | Content Type | Update Frequency | Access Type | Format | Description |
